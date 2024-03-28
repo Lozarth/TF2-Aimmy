@@ -1,2 +1,4 @@
 # TF2-Aimmy
-Aimmy model for Team Fortress 2
+### Dataset
+https://universe.roboflow.com/vinicius-soares/team-fortress-2-classes
+Trained on 1929 images 
