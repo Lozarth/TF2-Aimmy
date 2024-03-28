@@ -1,0 +1,12 @@
+train: C:/Users/monko/Downloads/development/Team Fortress 2 Classes.v5i.yolov8/train/images
+val: C:/Users/monko/Downloads/development/Team Fortress 2 Classes.v5i.yolov8/valid/images
+
+nc: 1
+names: ['Enemy']
+
+roboflow:
+  workspace: topicos-especiais-bpy0a
+  project: team-fortress-2-classes
+  version: 5
+  license: Public Domain
+  url: https://universe.roboflow.com/topicos-especiais-bpy0a/team-fortress-2-classes/dataset/5
